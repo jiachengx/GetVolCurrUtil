@@ -12,7 +12,6 @@ using System.IO;
 #region Rebuild from Orig GetVolCurrTool
 // Add the source from yocto source and then modify export to excel function  
 // Add the voltage and current value and calculate its avg current/ voltage and watt
-// Author: Stephen Hsu
 // Created by 2013.01.08
 #endregion
 
